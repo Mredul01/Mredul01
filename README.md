@@ -1,3 +1,43 @@
+### Hi there 👋, i am MREDUL
+#### I am a competitive programmer and developer
+![I am a competitive programmer and developer](https://scontent.fdac116-1.fna.fbcdn.net/v/t1.6435-9/69005557_951144495223690_5835738860130140160_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGyBt7A16BN4Y6ndjOdipMnNHtjODjIxXU0e2M4OMjFdf9g7ehJRUjDbBmDNMIodNWHPnWtmvPjFl9762LtLW7A&_nc_ohc=Adh60IAtTZEAX8J289X&_nc_ht=scontent.fdac116-1.fna&oh=00_AT_V93XBFhYpt6_0C5xyP2mxRG8WXh_BIMI637lliz7lcw&oe=62ACC83C)
+
+I am a passionate programmer. I have always loved to do technology-related work. I have a strong passion for technology. I am a person who is positive about every aspect of life & One of my biggest strengths is I can effectively push myself to achieve my goals.
+
+Skills: C, C++, Java, Python, HTML, CSS, PHP, JavaScript, SQL, Dart, Firebase, My SQL, SQLite, Git, GitHub, VS Code, Hadoop, Weka, Android Studio, Flutter, Tkinter, Linux.
+
+- 🔭 I’m currently working on Tea Leaf Disease Detection. 
+- 🌱 I’m currently learning Dart and Flutter 
+- 👯 I’m looking to collaborate on Open Source projects 
+- 🤔 I’m looking for help with Mobile Application Development 
+- 💬 Ask me about competitive programming 
+- 📫 How to reach me: mredul0011@gmail.com 
+- ⚡ Fun fact: Life is Game of Code 😊 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Mredul01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/maruf-hasan-407b5b1a6//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/maruf.hasanmredul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCcJVVtn5Gn8LpYmhQbR4CYA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sites.google.com/diu.edu.bd/mredulhasan/home)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Mredul01)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Mredul01)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Mredul01&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/Mredul01)  
+
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/Mredul01)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/Mredul01)  
+
+
+
+
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mredul01&label=Profile%20views&color=0e75b6&style=flat" alt="Mredul01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mredul01" alt="mredul01" /></a> </p>
