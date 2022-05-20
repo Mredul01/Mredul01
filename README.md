@@ -1,6 +1,6 @@
 ### Hi there 👋, i am MREDUL
 #### I am a competitive programmer and developer
-![I am a competitive programmer and developer](https://scontent.fdac116-1.fna.fbcdn.net/v/t1.6435-9/69005557_951144495223690_5835738860130140160_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGyBt7A16BN4Y6ndjOdipMnNHtjODjIxXU0e2M4OMjFdf9g7ehJRUjDbBmDNMIodNWHPnWtmvPjFl9762LtLW7A&_nc_ohc=Adh60IAtTZEAX8J289X&_nc_ht=scontent.fdac116-1.fna&oh=00_AT_V93XBFhYpt6_0C5xyP2mxRG8WXh_BIMI637lliz7lcw&oe=62ACC83C)
+![I am a competitive programmer and developer]
 
 I am a passionate programmer. I have always loved to do technology-related work. I have a strong passion for technology. I am a person who is positive about every aspect of life & One of my biggest strengths is I can effectively push myself to achieve my goals.
 
